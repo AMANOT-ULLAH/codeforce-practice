@@ -1,0 +1,1 @@
+{"name":"Local: cAPSlock","url":"d:\\my programe\\codeforces\\cAPSlock.cpp","tests":[{"id":1700165721307,"input":"cAPS\n","output":"Caps"},{"id":1700165740329,"input":"Lock","output":"Lock"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my programe\\codeforces\\cAPSlock.cpp","group":"local","local":true}

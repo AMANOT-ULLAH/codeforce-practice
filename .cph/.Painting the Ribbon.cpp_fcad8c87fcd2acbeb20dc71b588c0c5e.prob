@@ -1,0 +1,1 @@
+{"name":"Local: Painting the Ribbon","url":"e:\\my programe\\codeforces\\Painting the Ribbon.cpp","tests":[{"id":1712931601371,"input":"5\n1 1 1\n5 1 1\n5 2 1\n5 2 2\n5 5 3\n","output":"NO\nNO\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programe\\codeforces\\Painting the Ribbon.cpp","group":"local","local":true}

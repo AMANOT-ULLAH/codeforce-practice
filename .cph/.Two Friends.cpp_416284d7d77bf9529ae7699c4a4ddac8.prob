@@ -1,0 +1,1 @@
+{"name":"Local: Two Friends","url":"e:\\my programe\\codeforces\\Two Friends.cpp","tests":[{"id":1714403259875,"input":"3\n5\n3 1 2 5 4\n4\n2 3 4 1\n2\n2 1\n","output":"2\n3\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programe\\codeforces\\Two Friends.cpp","group":"local","local":true}

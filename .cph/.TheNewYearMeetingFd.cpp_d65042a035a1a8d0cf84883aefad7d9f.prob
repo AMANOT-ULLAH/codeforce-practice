@@ -1,0 +1,1 @@
+{"name":"Local: TheNewYearMeetingFd","url":"e:\\my programe\\codeforces\\TheNewYearMeetingFd.cpp","tests":[{"id":1711223192458,"input":"7 1 4\n","output":"6"},{"id":1711223202713,"input":"30 20 10","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programe\\codeforces\\TheNewYearMeetingFd.cpp","group":"local","local":true}

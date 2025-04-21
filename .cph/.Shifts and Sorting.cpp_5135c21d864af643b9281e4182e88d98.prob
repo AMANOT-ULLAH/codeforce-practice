@@ -1,0 +1,1 @@
+{"name":"Local: Shifts and Sorting","url":"e:\\my programe\\codeforces\\Shifts and Sorting.cpp","tests":[{"id":1714404957585,"input":"5\n10\n0000\n11000\n101011\n01101001","output":"2\n0\n9\n5\n11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\my programe\\codeforces\\Shifts and Sorting.cpp","group":"local","local":true}
